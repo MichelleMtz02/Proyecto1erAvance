@@ -46,7 +46,7 @@ Daniela: <b/>
     <b> c) ¿Qué problemática o necesidad resuelve? <b/>  
             -->  
             
- ![Screenshot](screenshot.png)
+https://user-images.githubusercontent.com/71424870/93436067-ea1cf700-f88f-11ea-8b72-a87052197bb5.png
             
 
 

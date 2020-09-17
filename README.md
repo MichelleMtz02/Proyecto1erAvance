@@ -1,15 +1,15 @@
 # Equipo 4 - El Chilaquil
-Equipo 4 - Repositorio  
-    <i> INTEGRANTES <i/>  
+
+# Proyecto Herramientas Computacionales: 1er Reporte de Avances
+
+<b> Equipo 4 - Repositorio <b/> 
+INTEGRANTES   
 Daniela A. Vázquez - A00827067  
 Michelle Martínez - A01570765  
 Mariana Colchado - A00827256  
 Arturo Rodríguez - A01197577  
 Rodrigo Díaz - A00828093  
-
-# Proyecto Herramientas Computacionales: 1er Reporte de Avances
-
-
+    
 <b>1. Empresas identificadas individualmente con modelos probados con tecnología IoT:
         
 Daniela: <b/>   

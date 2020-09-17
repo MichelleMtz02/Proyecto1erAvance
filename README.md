@@ -89,9 +89,10 @@ Daniela: <b/>
   
   Ejemplo de código: 
   
-  < # ¡Buen día, Prof. Sergio!  
+  <# ¡Buen día, Prof. Sergio!> 
   
-  
+  ![images](https://user-images.githubusercontent.com/71424870/93448521-518b7480-f899-11ea-818f-0517583e616b.png)
+
   
 
 

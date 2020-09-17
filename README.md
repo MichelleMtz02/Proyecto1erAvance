@@ -65,13 +65,15 @@ Daniela: <b/>
   a) ¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?  
   >> Primeramente, consideramos que se abarca un área de la ingeniería que se ve con poca frecuencia en el tópico de Internet of Things. Además, es interesante la forma en que trabaja este modelo y todas sus funciones.  
   
-  
+  ![Screen Shot 2020-09-15 at 2 00 40 PM](https://user-images.githubusercontent.com/71424870/93449378-4a189b00-f89a-11ea-99ce-b1ca5c8bf361.png)
   
   b) ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?  
   >> Los beneficiarios son principalmente los consumidores del agua que se esta tratando. En la mayoría de los casos, el agua a tratarse es para potabilizarla y que sea apta para el consumo de una cierta población, guiándose por los estándares de químicos establecidos por el gobierno de la zona que son necesarios para que el agua sea utilizable.   
   
   c) ¿Cuál es la propuesta de valor para estos públicos?  
   >> El agua es utilizada en el día a día de muchas personas, ya sea para ducharse, limpiar, cocinar, beberla, lavarse los dientes, etc., lo cuál exige que se eleve su consumo. El gobierno pone el precio al agua que se va consumiendo por mes en el hogar, lo cuál, si se sacan estadísticas y cuentas, nos da como resultado un alto ingreso a favor de la industria del agua.  
+  
+  ![download](https://user-images.githubusercontent.com/71424870/93449719-b398a980-f89a-11ea-898b-c2437d1d1515.jpg)
   
   d) ¿Cuál es el proceso que involucra para estos públicos?  
   >> Simplemente con consumir agua es suficiente para que los depósitos donde se utiliza el sistema del Grupo Garatu Development sigan potabilizando miles de galones de agua por día. 
@@ -81,6 +83,9 @@ Daniela: <b/>
   
   f) ¿Qué estándares están implicados en este modelo y cómo se usan?  
   >> Los estándares dependen del cliente, por ejemplo, en México, depende del gobierno de cada estado y sus regulaciones para el agua. Entonces, a partir de ahí se modifican las cantidades utilizadas de cada químico en los depósitos.  
+  
+  ![images-1](https://user-images.githubusercontent.com/71424870/93449580-8946ec00-f89a-11ea-95f0-048f64390cda.png)
+
   
   
   

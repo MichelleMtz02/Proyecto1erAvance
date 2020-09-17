@@ -1,5 +1,11 @@
-# equipo4-chilaquil
-Equipo 4 Chilaquil - Repositorio
+# Equipo 4 - El Chilaquil
+Equipo 4 - Repositorio
+    <i> INTEGRANTES <i/>
+Daniela A. Vázquez - A00827067
+Michelle Martínez - A01570765
+Mariana Colchado - A00827256
+Arturo Rodríguez - A01197577
+Rodrigo Díaz - A00828093
 
 # Proyecto Herramientas Computacionales: 1er Reporte de Avances
 

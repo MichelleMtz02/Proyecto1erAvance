@@ -10,6 +10,8 @@ Mariana Colchado - A00827256
 Arturo Rodríguez - A01197577  
 Rodrigo Díaz - A00828093  
     
+#PARTE I  
+    
 <b>1. Empresas identificadas individualmente con modelos probados con tecnología IoT:
         
 Daniela: <b/>   

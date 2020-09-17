@@ -36,7 +36,7 @@ MARIANA:
     b) ¿En qué consiste su modelo de uso de IoT? ¿Es un App, una plataforma en la nube, etc?    
             >>  
     c) ¿Qué problemática o necesidad resuelve?  
-            >>  
+            >>  Resuelve la problemática que tienen muchas empresas en sus instalaciones de tener una baja calidad del aire, haciendo que los empleados no rindan al mismo nivel de su capacidad. Muchos edificios presentan lo que se conoce como "síndrome del edificio enfermo" que es precisamente una mala calidad de aire en espacios cerrados. Es común que para intentar contrarrestar este síndrome, los dueños del eficifio abusen de los sistemas de caleffación o enfriamiento, de modo que se gasta energía innecesaria al ventilar exageradamente un espacio que raramente está ocupado a su capacidad máxima. Esta aplicación de IoT permite que se controle la calidad del aire para hacer la ventilación adecuada cuando se necesite.
  
  
 ARTURO:    

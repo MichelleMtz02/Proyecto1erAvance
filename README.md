@@ -58,7 +58,8 @@ Daniela: <b/>
             
   # PARTE II
   
-  2. Descripción del modelo de uso de IoT seleccionado colaborativamente  
+  2. Descripción del modelo de uso de IoT seleccionado colaborativamente:  
+  
   a) ¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?  
   >>  
   

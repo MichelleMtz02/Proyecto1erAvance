@@ -21,7 +21,7 @@ DANIELA:
      c) ¿Qué problemática o necesidad resuelve?    
            >> Provee apoyo a los trabajadores de la planta para poder predecir o prevenir algún error con los químicos, así como también facilita el proceso de revisión, se remueve lo manual y se vuelve parcialmente remoto. Brinda al cliente la calidad de agua que necesita, cumpliendo con los distintos requisitos de salubridad que se esperan que se cumplan.  
            
-           <code> Desarrollo IoT dosificación por control remoto de componentes químicos. (2019, June 11). Retrieved September 17, 2020, from https://development.grupogaratu.com/plataforma-iot-control-remoto-dosificar-componentes-quimicos/
+           < Desarrollo IoT dosificación por control remoto de componentes químicos. (2019, June 11). Retrieved September 17, 2020, from https://development.grupogaratu.com/plataforma-iot-control-remoto-dosificar-componentes-quimicos/ >
 
 
 MICHELLE:  

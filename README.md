@@ -19,7 +19,9 @@ DANIELA:
            >> Su nombre es Grupo Garatu Development. Es una empresa orientada hacia la ingeniería química, más específicamente en la industria del agua.                b) ¿En qué consiste su modelo de uso de IoT? ¿Es un App, una plataforma en la nube, etc?     
            >> Es un sistema que se controla por medio de una pantalla táctil, la cuál permite regular la cantidad de químicos que se liberan en los depósitos de agua debido a sensores dentro de ellos, para distintos fines que cumplen con diferentes objetivos fijados por el cliente. También, permite revisar los niveles de éstos químicos para poder alertar cuando suben o bajan del nivel especificado por el usuario.           
      c) ¿Qué problemática o necesidad resuelve?    
-           >> Provee apoyo a los trabajadores de la planta para poder predecir o prevenir algún error con los químicos, así como también facilita el proceso de revisión, se remueve lo manual y se vuelve parcialmente remoto. Brinda al cliente la calidad de agua que necesita, cumpliendo con los distintos requisitos de salubridad que se esperan que se cumplan.     
+           >> Provee apoyo a los trabajadores de la planta para poder predecir o prevenir algún error con los químicos, así como también facilita el proceso de revisión, se remueve lo manual y se vuelve parcialmente remoto. Brinda al cliente la calidad de agua que necesita, cumpliendo con los distintos requisitos de salubridad que se esperan que se cumplan.  
+           
+           <code> Desarrollo IoT dosificación por control remoto de componentes químicos. (2019, June 11). Retrieved September 17, 2020, from https://development.grupogaratu.com/plataforma-iot-control-remoto-dosificar-componentes-quimicos/
 
 
 MICHELLE:  

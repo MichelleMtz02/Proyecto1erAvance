@@ -98,9 +98,9 @@ b) ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?
   
   Ejemplo de código: 
   
-  <code> # ¡Buen día, Prof. Sergio!
-  
-  ![images](https://user-images.githubusercontent.com/fotoquequieras.png)
+  <code> # ¡Buen día, Prof. Sergio! 
+  <code> ## Feliz Semana Tec :)  
+  <code>![images](https://user-images.githubusercontent.com/fotoquequieras.png)
   
   
   Lo cuál muestra en README:

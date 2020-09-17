@@ -38,6 +38,8 @@ MARIANA:
     c) ¿Qué problemática o necesidad resuelve?  
             >>  Atiende la problemática citadina de tener una baja calidad del aire. Esta iniciativa provee de monitoreo de la calidad del aire en las ciudades, importante para que el gobierno de las ciudades pueda tomar medidas al respecto. Si se toman medidas adecuadas, se podría evitar una multa por baja calidad del aire y redestinar ese dinero al sector salud, donde hay muchos afectados con enfermedades respiratorias o relacionadas a esto por la mala calidad de aire.
             
+            GSMA. (2018). Air Quality Monitoring Using IoT and Big Data. Recuperado de GSMA el 17 de septiembre del 2020 en https://www.gsma.com/iot/wp-content/uploads/2018/02/iot_clean_air_02_18.pdf
+            
  
 ARTURO:    
     a) ¿Qué empresa es? ¿En qué sector se encuentra?   

@@ -2,7 +2,7 @@
 
 # Proyecto Herramientas Computacionales: 1er Reporte de Avances
 
-<b> Equipo 4 - Repositorio <b/> 
+<b> Equipo 4 - Repositorio <b/>   
 INTEGRANTES   
 Daniela A. Vázquez - A00827067  
 Michelle Martínez - A01570765  

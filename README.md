@@ -65,6 +65,8 @@ Daniela: <b/>
   a) ¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?  
   >> Primeramente, consideramos que se abarca un área de la ingeniería que se ve con poca frecuencia en el tópico de Internet of Things. Además, es interesante la forma en que trabaja este modelo y todas sus funciones.  
   
+  
+  
   b) ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?  
   >> Los beneficiarios son principalmente los consumidores del agua que se esta tratando. En la mayoría de los casos, el agua a tratarse es para potabilizarla y que sea apta para el consumo de una cierta población, guiándose por los estándares de químicos establecidos por el gobierno de la zona que son necesarios para que el agua sea utilizable.   
   

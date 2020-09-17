@@ -55,8 +55,10 @@ Daniela: <b/>
             >>   
             
 ![712x350xDesign-thinking jpg pagespeed ic_ _E8z6i6bLW](https://user-images.githubusercontent.com/71424870/93436299-38ca9100-f890-11ea-817c-a1e85b4b7c14.jpg)
+
+
             
-  # PARTE II
+# PARTE II
   
   2. Descripción del modelo de uso de IoT seleccionado colaborativamente:  
   
@@ -76,13 +78,16 @@ Daniela: <b/>
   >>  Conforme los beneficiarios del agua dentro del área suministrada van vaciando los depósitos de agua, éstos se llenan de nuevo con el agua de río limpia lista para potabilizarse por medio de químicos, los cuales son depositados en el agua controladamente por este sistema, todo mediante un dispositivo táctil conectado al internet. Se va registrando la cantidad de químicos que se van agregando y así se guardan en el sistema, en caso de cualquier exceso o deficiencia de químicos, el sistema se adapta para agregar o diluir lo depositado.    
   
   f) ¿Qué estándares están implicados en este modelo y cómo se usan?  
-  >> Los estándares dependen del cliente, por ejemplo, en México, depende del gobierno de cada estado y sus regulaciones para el agua. Entonces, a partir de ahí se modifican las cantidades utilizadas de cada químico en los depósitos. 
+  >> Los estándares dependen del cliente, por ejemplo, en México, depende del gobierno de cada estado y sus regulaciones para el agua. Entonces, a partir de ahí se modifican las cantidades utilizadas de cada químico en los depósitos.  
   
   
-  # PARTE III
+  
+# PARTE III
   
   3. Guía rápida introductoria al uso de GitHub, sus comandos básicos y recursos de apoyo en línea.  
-  >>  GitHub es una herramienta amigable para todo aquel que tenga conocimientos básicos sobre programación, siempre y cuando se invesitguen sus funciones y sus comandos para poder aprovecharlo al máximo. Primero que nada, se debe de crear una cuenta, la cuál servirá para identificarte y para crear tus propios sitios y colaborar en otros. Después, es necesario crear una página, lo cuál se consigue a partir de unos cuantos clicks. Después de inicializar la página creada, en settings eliges la privacidad de la página, y ahí tambien viene el link donde puedes ir viendo como queda la página que estás editando. Ahí mismo, se puede elegir el estilo predeterminado que se quiera. Abres el editor en la página de README.md, que es la que muestra toda la información que se va agregando en la opción de <code>. Para poder saltar de renglón, es necesario poner dos espacios al final de la oración que se desea dividir o frase a separar. Para poder agregar una foto se tiene que crear un nuevo <issue>, ahí aparece la opción de nombrarlo y describirlo, en la parte de a descripción se arrastra la imagen y se copia el link que se proporciona a continuación. Posteriormente, se coloca el link en el espacio deseado dentro de las líneas de código. Se da refresh a la página para poder ir observando los cambios en la otra pestaña donde está el producto final. 
+  >>  GitHub es una herramienta amigable para todo aquel que tenga conocimientos básicos sobre programación, siempre y cuando se invesitguen sus funciones y sus comandos para poder aprovecharlo al máximo. Primero que nada, se debe de crear una cuenta, la cuál servirá para identificarte y para crear tus propios sitios y colaborar en otros. Después, es necesario crear una página, lo cuál se consigue a partir de unos cuantos clicks. Después de inicializar la página creada, en settings eliges la privacidad de la página, y ahí tambien viene el link donde puedes ir viendo como queda la página que estás editando. Ahí mismo, se puede elegir el estilo predeterminado que se quiera. Abres el editor en la página de README.md, que es la que muestra toda la información que se va agregando en la opción de code. Para poder saltar de renglón, es necesario poner dos espacios al final de la oración que se desea dividir o frase a separar. Para poder agregar una foto se tiene que crear un nuevo issue, ahí aparece la opción de nombrarlo y describirlo, en la parte de a descripción se arrastra la imagen y se copia el link que se proporciona a continuación. Posteriormente, se coloca el link en el espacio deseado dentro de las líneas de código. Se da refresh a la página para poder ir observando los cambios en la otra pestaña donde está el producto final.  
+  
+  Ejemplo de código: 
   
   
   

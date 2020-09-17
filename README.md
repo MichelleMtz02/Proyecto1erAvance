@@ -89,7 +89,9 @@ Daniela: <b/>
   
   Ejemplo de código: 
   
+  < # ¡Hola Prof. Sergio!  
   
+  ![712x350xDesign-thinking jpg pagespeed ic_ _E8z6i6bLW](https://user-images.githubusercontent.com/71424870/93436299-38ca9100-f890-11ea-817c-a1e85b4b7c14.jpg)>
   
 
 

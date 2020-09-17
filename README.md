@@ -56,6 +56,35 @@ Daniela: <b/>
             
 ![712x350xDesign-thinking jpg pagespeed ic_ _E8z6i6bLW](https://user-images.githubusercontent.com/71424870/93436299-38ca9100-f890-11ea-817c-a1e85b4b7c14.jpg)
             
+  # PARTE II
+  
+  2. Descripción del modelo de uso de IoT seleccionado colaborativamente  
+  a) ¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?  
+  >>  
+  
+  b) ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?  
+  >>  
+  
+  c) ¿Cuál es la propuesta de valor para estos públicos?  
+  >>  
+  
+  d) ¿Cuál es el proceso que involucra para estos públicos?  
+  >>  
+  
+  e) ¿Qué datos se generan y registran durante este proceso?  
+  >>  
+  
+  f) ¿Qué estándares están implicados en este modelo y cómo se usan?  
+  >>  
+  
+  
+  # PARTE III
+  
+  3. Guía rápida introductoria al uso de GitHub, sus comandos básicos y recursos de apoyo en línea.  
+  >>  
+  
+  
+  
 
 
 

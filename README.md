@@ -32,12 +32,12 @@ MICHELLE:
             
 MARIANA:  
     a) ¿Qué empresa es? ¿En qué sector se encuentra?    
-            >>  
+            >>  La empresa se llama GSMA. Es una empresa en el sector de telecomunicaciones, pero para este proyecto está orientada a atender una de las grandes problemáticas originadas por el calentamiento global: la contaminación del aire. Gracias a esta colaboración de áreas separadas, se puede decir que el sector de este proyecto específico es desarrollo sustentable, pues mediante la ciencia y la tecnología se ciuda que las comodidades de las que gozamos actualmente sean lo menos dañinas para el medio ambiente. 
     b) ¿En qué consiste su modelo de uso de IoT? ¿Es un App, una plataforma en la nube, etc?    
-            >>  
+            >>  Consiste en el uso de sensores pequeños, portátiles, de bajo costo, y manejables mediante dispositivos móviles que pueden medir y reportar la calidad del aire en tiempo real. También se pueden aplicar capacidades de "Big Data" como análisis y machine learning para relacionar datos y tener un mejor entendimiento de las dinámicas de la contaminación del aire y sus posibles causas. Esto, en comparación con los instrumentos que se utilizan en la actualidad para monitorear el aire, es de gran ventaja, porque lo que se utiliza actualmente son equipos pesados, difícilmente manejables y ubicados permanentemente en sitios específicos de las ciudades, y es difícil obtener un reporte en tiempo real y confiable.
     c) ¿Qué problemática o necesidad resuelve?  
-            >>  Resuelve la problemática que tienen muchas empresas en sus instalaciones de tener una baja calidad del aire, haciendo que los empleados no rindan al mismo nivel de su capacidad. Muchos edificios presentan lo que se conoce como "síndrome del edificio enfermo" que es precisamente una mala calidad de aire en espacios cerrados. Es común que para intentar contrarrestar este síndrome, los dueños del eficifio abusen de los sistemas de caleffación o enfriamiento, de modo que se gasta energía innecesaria al ventilar exageradamente un espacio que raramente está ocupado a su capacidad máxima. Esta aplicación de IoT permite que se controle la calidad del aire para hacer la ventilación adecuada cuando se necesite.
- 
+            >>  Atiende la problemática citadina de tener una baja calidad del aire. Esta iniciativa provee de monitoreo de la calidad del aire en las ciudades, importante para que el gobierno de las ciudades pueda tomar medidas al respecto. Si se toman medidas adecuadas, se podría evitar una multa por baja calidad del aire y redestinar ese dinero al sector salud, donde hay muchos afectados con enfermedades respiratorias o relacionadas a esto por la mala calidad de aire.
+            
  
 ARTURO:    
     a) ¿Qué empresa es? ¿En qué sector se encuentra?   

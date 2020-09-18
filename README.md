@@ -26,11 +26,13 @@ DANIELA:
 
 MICHELLE:  
     a) ¿Qué empresa es? ¿En qué sector se encuentra?    
-            >>  
+            >>  ScienceSoft es una empresa de consultoría de desarrollo de software y Tecnologías de la Información con sede en McKinney, Texas. La compañía cuenta con 27 años de experiencia y puntos de vista innovadores sobre diversas industrias, incluyendo banca, salud, retail y telecomunicaciones. 
     b) ¿En qué consiste su modelo de uso de IoT? ¿Es un App, una plataforma en la nube, etc?    
-            >>  
+            >> Consiste en presentar un elemento químico y tranformar en texto su identificación. La empresa tiene, IoT application development, IoT analytics, IoT consulting services Cloud Applications (User and control apps),etc.
     c) ¿Qué problemática o necesidad resuelve?  
-            >>  
+            >>  Ayuda a personas a saber que elementos forman parte de otros compuestos sin necesidad de tener un conocimiento avanzado en la química.
+            
+            < DEVELOPMENT AND SUPPORT OF SOFTWARE PRODUCTS FOR LIFE SCIENCE COMPANIES. (s.f). Recuperado el: Septiembre 17, 2020, de: https://www.scnsoft.com/case-studies/development-and-customer-support-center-for-life-science-companies > 
             
 MARIANA:  
     a) ¿Qué empresa es? ¿En qué sector se encuentra?    
